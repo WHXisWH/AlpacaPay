@@ -159,34 +159,25 @@ REACT_APP_ACCOUNT_FACTORY_ADDRESS=0x9406Cc6185a346906296840746125a0E44976454
    ```
 3. Open http://localhost:3000 in your browser
 
-## Future Roadmap (Wave 2+)
+## 🚀 Future Roadmap (Wave 2+)
 
-Wave 2: Loyalty & Analytics Layer
-Points & Loyalty System: Earn points for each transaction
+### 🟦 Wave 2: Loyalty & Analytics Layer
+- **Points & Loyalty System** – Users earn points for every transaction  
+- Real-time Portfolio Analytics  
+- Historical Gas Cost Tracking per Token  
+- AI-Driven Token Price Predictions
 
-Real-time portfolio insights
+### 🟩 Wave 3: Ecosystem Integration
+- Multi-Chain Support for Token-Based Gas  
+- DEX Integration for Seamless Pre-Payment Swaps  
+- Points-to-Token Redemption via Marketplace  
+- Advanced Optimization for Frequent Users
 
-Gas cost tracking by token
-
-AI-powered price trend forecasts
-
-Wave 3: Ecosystem Integration
-Cross-chain (multi-chain) token gas support
-
-DEX integration for one-click token swaps before payment
-
-Points-to-token exchange option via on-chain marketplace
-
-Optimization strategies for high-frequency users
-
-Wave 4: Advanced UX & Governance
-Subscription-based gas fee sponsorship (e.g., premium tiers)
-
-Customizable gas payment policies
-
-DAO-driven governance for AI weightings (slippage, volatility, etc.)
-
-Expanded loyalty rewards (e.g., gas rebates, NFTs)
+### 🟪 Wave 4: Advanced UX & Governance
+- Subscription-Based Gas Sponsorship (e.g., Premium Tiers)  
+- Customizable Gas Payment Policies  
+- DAO-Governed AI Parameter Tuning (e.g., Slippage vs. Volatility)  
+- Expanded Loyalty Rewards (Gas Rebates, NFTs)
 
 ## License
 
