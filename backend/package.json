@@ -1,0 +1,33 @@
+{
+  "name": "ai-payment-execution-backend",
+  "version": "1.0.0",
+  "description": "AI-powered token recommendation backend for NERO Chain gas payments",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NERO",
+    "Chain",
+    "AI",
+    "Payment",
+    "Advisor",
+    "Paymaster",
+    "Account",
+    "Abstraction"
+  ],
+  "author": "NERO Chain Wavehack Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
